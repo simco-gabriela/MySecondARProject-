@@ -1,3 +1,5 @@
+# Ignore line endings for all files in the Library folder
+/Library/* -text
 
 # Ensure consistent LF line endings for Unity files
 *.cs text eol=lf
